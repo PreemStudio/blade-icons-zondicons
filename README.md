@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-zondicons/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/preemstudio/blade-icons-zondicons/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/preemstudio/blade-icons-zondicons.svg?style=flat-square)](https://packagist.org/packages/preemstudio/blade-icons-zondicons)
 
-A package to easily make use of [Zondicons](https://www.zondicons.com/) in your Laravel Blade views.
+A package to easily make use of [Zondicons](https://www.zondicons.com/) with Laravel Blade Icons.
 
 ## Installation
 
