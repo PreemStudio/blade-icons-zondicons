@@ -21,6 +21,6 @@ abstract class TestCase extends AbstractPackageTestCase
 
     protected function getServiceProviderClass(): string
     {
-        return \PreemStudio\BladeZondicons\ServiceProvider::class;
+        return \PreemStudio\BladeIcons\Zondicons\ServiceProvider::class;
     }
 }
